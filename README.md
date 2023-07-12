@@ -1,3 +1,4 @@
 # images
-This repository is for saving images used by a markdown file
-and other purposes for study.
+This repository is created for the following purposes:
+(1)saving images used by a markdown file;
+(2)other purposes for study.
